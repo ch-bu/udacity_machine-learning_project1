@@ -1,4 +1,4 @@
-# Udacity Machine Learning Nanodegree - Projekt 1 - Predicting Boston Housing Prices
+# Udacity Machine Learning Nanodegree - Project 1 - Predicting Boston Housing Prices
 
 ## Project Overview
 This is the first project of the [Machine Learning Nanodegree Program from Udacity](https://eu.udacity.com/course/machine-learning-engineer-nanodegree--nd009). In this project, I applied basic machine learning concepts on a dataset of housing prices in Boston, Massachusetts. In the project, I build a decision tree regressor and used various machine learning techniques to evaluate the quality of the decision tree model. The goal of the project was to get acquainted with the following concepts of machine learning:
